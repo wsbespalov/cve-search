@@ -21,3 +21,4 @@ PyMongo>=2.7
 Werkzeug
 
 https://github.com/marianoguerra/feedformatter/archive/master.zip
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
